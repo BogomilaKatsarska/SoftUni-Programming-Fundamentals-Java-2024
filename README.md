@@ -9,7 +9,6 @@
   <li>Objects and Classes</li>
   <li>Associative Arrays</li>
   <li>Text Processing</li>
-  <li>RegEx</li>
   <li>Exam Preparation</li>
   <li>Basic Web Project</li>
 </ol>
